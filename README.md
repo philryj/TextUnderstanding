@@ -1,6 +1,7 @@
 # Text Understanding from Scratch
 
 Summative Project for course: COMP 551 - Applied Machine Learning, at McGill University
+
 Completed: April 2018
 
 Task Objective: 
